@@ -1,0 +1,29 @@
+<svg width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Calque 109">
+<g id="Fl&#195;&#168;che lin&#195;&#169;aire gauche plein or">
+<g id="Clip path group">
+<mask id="mask0_498_550" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="0" y="0" width="48" height="48">
+<g id="clippath">
+<path id="Vector" d="M48 0H0V48H48V0Z" fill="white"/>
+</g>
+</mask>
+<g mask="url(#mask0_498_550)">
+<g id="Group">
+<g id="Clip path group_2">
+<mask id="mask1_498_550" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="0" y="0" width="48" height="48">
+<g id="clippath-1">
+<path id="Vector_2" d="M48 0H0V48H48V0Z" fill="white"/>
+</g>
+</mask>
+<g mask="url(#mask1_498_550)">
+<g id="Group_2">
+<path id="Vector_3" d="M20.4298 31.2C20.8198 31.59 21.4498 31.6 21.8398 31.21C22.2298 30.82 22.2398 30.19 21.8498 29.8L17.1298 25.01H34.0598C34.6098 25.01 35.0598 24.56 35.0598 24.01C35.0598 23.46 34.6098 23.01 34.0598 23.01H17.1298L21.8498 18.22C22.2398 17.83 22.2298 17.19 21.8398 16.81C21.6498 16.62 21.3898 16.52 21.1398 16.52C20.8898 16.52 20.6198 16.62 20.4298 16.82L13.3398 24.02L20.4298 31.22V31.2Z" fill="#0033CC"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</svg>

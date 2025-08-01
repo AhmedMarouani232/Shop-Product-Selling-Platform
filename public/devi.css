@@ -1,0 +1,360 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;700');
+
+body{
+    padding-top: 24px;
+    height: 100%;
+    margin: 0; /* Remove default margin */
+}
+
+.logo{
+    padding: 40px 16px 16px 25px;
+}
+.sousTitre{
+    color: var(--Carbon-100, #333);
+    font-family: Montserrat;
+    font-size: 11px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 5px; /* 130% */
+    letter-spacing: 0.2px;
+    margin-bottom: 0.5rem;
+}
+
+.groupSubTitle{
+    padding-left: 25px;
+}
+
+.DevisTitle{
+    color: var(--Carbon-100, #333);
+    font-family: Montserrat;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    letter-spacing: 0.64px;
+}
+.grey{
+    display: flex;
+    align-items: center;
+    align-content: center;
+    background: var(--Nuage-100, #F5F6FA);
+    padding-left: 16px;
+    padding-right: 100px;
+    width: auto;
+}
+.greyy{
+    display: flex;
+    align-items: center;
+    align-content: center;
+    background: var(--Nuage-100, #F5F6FA);
+    padding-left: 16px;
+    width: auto;
+}
+.client{
+    width: 100%;
+}
+.qovInfo{
+    width: auto;
+    margin-right: -400px;
+}
+.montant{
+    color: var(--Carbon-100, #333);
+    font-family: Montserrat;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 18px; 
+    letter-spacing: 0.2px;
+    padding-top:16px ;
+    margin-bottom: -0.2rem;
+    width: 100%;
+}
+.montantt{
+    color: var(--Carbon-100, #333);
+    font-family: Montserrat;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 18px; 
+    letter-spacing: 0.2px;
+    margin-bottom: -0.2rem;
+    margin-left: 50px;
+    text-align: center;
+}
+.montanttt{
+    color: var(--Carbon-100, #333);
+    font-family: Montserrat;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 18px; 
+    letter-spacing: 0.2px;
+    margin-bottom: -0.2rem;
+    text-align: center;
+}
+.value{
+    color: var(--Carbon-100, #333);
+    font-family: Montserrat;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 28px; 
+    letter-spacing: 0.28px;  
+}
+.valuee{
+    color: var(--Carbon-100, #333);
+    font-family: Montserrat;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 28px; 
+    letter-spacing: 0.28px;  
+    margin-bottom: -10px;
+}
+.less{
+    width: auto;
+}
+
+.head{
+    color: var(--Carbon-100, #333);
+    text-align: center;
+    font-family: Montserrat;
+    font-size: 11px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: 18px; 
+    letter-spacing: 0.2px; 
+}
+
+.headd{
+    color: var(--Carbon-100, #333);
+
+    font-family: Montserrat;
+    font-size: 11px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: 18px;
+    letter-spacing: 0.2px; 
+    padding-bottom: 15px!important;
+    width: 400px;
+}
+
+.headdd{
+    color: var(--Carbon-100, #333);
+    text-align: center;
+    font-family: Montserrat;
+    font-size: 11px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: 18px; 
+    letter-spacing: 0.2px; 
+    padding-bottom: 15px!important;
+    width: auto;
+}
+
+.tableh{
+    padding-bottom: 40px;
+    background: var(--Entte-tableau, linear-gradient(0deg, rgba(199, 178, 153, 0.40) 0%, rgba(199, 178, 153, 0.40) 100%), #FFF);
+}
+.totalCibre{
+    background: var(--Entte-tableau, linear-gradient(0deg, rgba(199, 178, 153, 0.40) 0%, rgba(199, 178, 153, 0.40) 100%), #FFF);
+    color: var(--Carbon-100, #333);
+    text-align: center;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: 18px; /* 180% */
+    letter-spacing: 0.2px;
+    width: 35%;
+    float: right;
+    padding: 10px;
+    display: flex;
+
+}
+.deduit{
+    float: left;
+}
+.deduitVal{
+    display: flex;
+    align-items: center;
+    margin-left: 100px;
+}
+
+.tableT{
+    color: var(--Carbon-80, rgba(51, 51, 51, 0.80));
+    font-family: Montserrat;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: 18px; 
+    letter-spacing: 0.2px;
+    margin-bottom: -3px;
+}
+
+.tableD{
+    color: var(--Carbon-80, rgba(51, 51, 51, 0.80));
+    font-family: Montserrat;
+    font-size: 13px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 18px;
+    letter-spacing: 0.2px;
+    margin-bottom: -3px;
+    margin-left: -14px;
+}
+
+.tableDD{
+    color: var(--Carbon-80, rgba(51, 51, 51, 0.80));
+    font-family: Montserrat;
+    font-size: 13px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 18px;
+    letter-spacing: 0.2px;
+    margin-bottom: -3px;
+}
+
+.tableV{
+    color: var(--Carbon-100, #333);
+    text-align: center;
+    font-family: Montserrat;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 18px; /* 180% */
+    letter-spacing: 0.2px;
+}
+
+.liv{
+    color: var(--Carbon-100, #333);
+    font-family: Montserrat;
+    font-size: 12px;
+    font-style: italic;
+    font-weight: 800;
+    line-height: 24px; /* 200% */
+    letter-spacing: 0.24px;
+}
+
+.livValue{
+    color: var(--Carbon-100, #333);
+    text-align: center;
+    font-family: Montserrat;
+    font-size: 12px;
+    font-style: italic;
+    font-weight: 400;
+    line-height: 18px; /* 180% */
+    letter-spacing: 0.2px;
+    padding-top: 10px!important;
+}
+
+.livBack{
+    background: var(--Nuage-100, #F5F6FA);
+}
+
+.totalBack{
+    color: var(--Carbon-100, #333);
+    font-family: Montserrat;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 24px; /* 200% */
+    letter-spacing: 0.24px;
+}
+
+.totalValue{
+    color: var(--Carbon-100, #333);
+    text-align: center;
+    font-family: Montserrat;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: 18px; /* 180% */
+    letter-spacing: 0.2px;
+}
+
+.ttcbackground{
+    background: var(--Entte-tableau, linear-gradient(0deg, rgba(199, 178, 153, 0.40) 0%, rgba(199, 178, 153, 0.40) 100%), #FFF);
+}
+.TTC{
+    margin-left: 50px;
+}
+.estimatif{
+    margin-left: 75px;
+
+}
+
+.bigAdresse{
+    color: var(--Carbon-100, #333);
+    text-align: right;
+    font-family: Montserrat;
+    font-size: 11px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 13px; /* 130% */
+    letter-spacing: 0.2px;
+    margin-bottom: -0.01em;
+}
+
+.normalAdresse{
+    color: var(--Carbon-100, #333);
+    font-family: Montserrat;
+    font-size: 11px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 13px;
+    letter-spacing: 0.2px;
+    margin-bottom: -0.01em;
+}
+
+.floatAdresse{
+    text-align: right;
+    margin-top: 24px;
+    margin-bottom: 24px;
+}
+
+.qovSiege{
+    color: var(--Dor-100, #C7B299);
+    text-align: center;
+    font-family: Montserrat;
+    font-size: 10px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 13px; /* 162.5% */
+    letter-spacing: 0.16px;
+    padding: 8px 40px 24px 40px;
+    background: var(--Blanc-100, #FFF);
+    /* margin-top: 92%; */
+    width: 100%;
+}
+
+.qovFooter {
+    text-align: center;
+    color: var(--Dor-100, #C7B299);
+    font-family: Montserrat;
+    font-size: 10px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 13px; /* 162.5% */
+    letter-spacing: 0.16px;
+    padding: 8px 40px 24px 40px;
+    background: var(--Blanc-100, #FFF);
+    position: absolute;
+    width: 100%;
+    bottom: 0;
+    /* margin-top: 92%; */
+}
+
+.space{
+    padding-left: 32px ;
+    padding-right: 32px;
+    margin-top: -20px;
+    flex: 1; /* Allow this section to grow and fill the space */
+}
+.footer {
+      position: absolute;
+    width: 100%;
+    bottom: 0;
+    text-align: center;
+    left: 0;
+  }
